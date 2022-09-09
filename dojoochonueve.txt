@@ -8,6 +8,14 @@ Fernando Romero Montero
 Mariana Insaurralde
 Julian Schmidt
 
+Brief: Al pulsar pulsador(?) se genera un numero random el cual se muestra en el display de 7 segmentos. 
+numero => par => luz roja
+numero => impar => luz verde
+numero => cero => bombilla
+
 GDB: https://onlinegdb.com/jhA6GfUO7
 
 Tinkercad: https://www.tinkercad.com/things/ckDoPndQKbU-cool-albar-borwo/editel?sharecode=ks7UWPHs-2TZWGehzvIJP3xvIhgcAjQzlNqUPHt1nnw
+
+YT: 
+
